@@ -1,0 +1,15 @@
+# Investment Disputes Data
+
+This is an effort to collect data on international investment disputes
+and related legal material. 
+
+## ICISD (World Bank Group)
+
+* [Case
+  Search](https://icsid.worldbank.org/apps/ICSIDWEB/cases/Pages/AdvancedSearch.aspx)
+* [Case load
+  statistics](https://icsid.worldbank.org/apps/ICSIDWEB/resources/Pages/ICSID-Caseload-Statistics.aspx)
+* Link list: [other related web
+  sites](https://icsid.worldbank.org/apps/ICSIDWEB/resources/Pages/Other-Related-Websites.aspx)
+* [Database of
+  treaties](https://icsid.worldbank.org/apps/ICSIDWEB/resources/Pages/Bilateral-Investment-Treaties-Database.aspx)
