@@ -13,3 +13,12 @@ and related legal material.
   sites](https://icsid.worldbank.org/apps/ICSIDWEB/resources/Pages/Other-Related-Websites.aspx)
 * [Database of
   treaties](https://icsid.worldbank.org/apps/ICSIDWEB/resources/Pages/Bilateral-Investment-Treaties-Database.aspx)
+
+## Other
+
+* UNCITRAL:
+  [United Nations Commission on International Trade Law](http://www.uncitral.org/transparency-registry/registry/index.jspx)
+* WTO [Dispute
+  settlement](http://www.wto.org/english/tratop_e/dispu_e/dispu_e.htm)
+* ITA law library, [treaty
+  cases](http://italaw.com/awards/chronological)
