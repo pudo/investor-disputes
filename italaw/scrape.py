@@ -1,5 +1,4 @@
 import dataset
-from itertools import count
 import requests
 from lxml import html
 from normality import slugify
@@ -7,11 +6,11 @@ from pprint import pprint
 
 
 ENTITIES = ['claimant', 'investment_treaty', 'respondent_state']
-SUFFIXEN = ['Inc', 'L.L.C', 'S.A', 'L.P.']
-engine = dataset.connect('postgresql://127.0.0.1/italaw')
-cases = engine['cases']
-entities = engine['entities']
-documents = engine['documents']
+SUFFIXEN = ['Inc', 'L.L.C', 'S.A', 'L.P.', 'A.S.', 'S.L.U.']
+engine = dataset.connect('postgresql://127.0.0.1/ttip')
+cases = engine['ita_cases']
+entities = engine['ita_entities']
+documents = engine['ita_documents']
 
 
 def col_name(labels):
